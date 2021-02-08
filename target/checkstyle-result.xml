@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\saleh\Desktop\Computer Science Projects\DiscBot\src\main\java\discbot\App.java">
+<error line="1" severity="error" message="Package name is not same as directory." source="com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck"/>
+</file>
+<file name="C:\Users\saleh\Desktop\Computer Science Projects\DiscBot\src\test\java\discbot\AppTest.java">
+<error line="1" severity="error" message="Package name is not same as directory." source="com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck"/>
+</file>
+</checkstyle>
